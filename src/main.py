@@ -1,4 +1,5 @@
 # Math utility functions
+# Greet user by name
 print('Hello World')
 
 def greet(Anry): 

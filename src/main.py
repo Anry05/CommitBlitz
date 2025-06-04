@@ -26,3 +26,6 @@ def divide(a, b):
 
 if _name_ == '_main_':
   print(greet('Anry'))
+
+def square(n):
+  return n * n

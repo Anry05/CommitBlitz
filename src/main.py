@@ -17,3 +17,7 @@ def divide(a, b):
   return a / b
  else:
  return 'cannot divide by zero'
+
+
+if _name_ == '_main_':
+  print(greet('Anry'))

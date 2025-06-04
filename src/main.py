@@ -32,3 +32,6 @@ def square(n):
 
 def cube(n):
   return n * n * n
+
+def power(base, exp):
+  return base ** exp

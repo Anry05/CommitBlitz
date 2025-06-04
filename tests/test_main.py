@@ -16,3 +16,6 @@ def test_divide():
 
 def test_divide_zero():
  assert divide(5, 0) == 'Cannot divide by zero'
+
+def test_square():
+ assert square(4) == 16

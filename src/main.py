@@ -8,6 +8,7 @@ def greet(Anry):
 # Substract two numbers
 def add(a, b):
    return a + b
+# Multiply two numbers
 
 def subtract(a, b):
    return a - b

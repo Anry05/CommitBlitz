@@ -5,6 +5,7 @@ print('Hello World')
 def greet(Anry): 
  return f'Hello, {Anry}'
 
+# Substract two numbers
 def add(a, b):
    return a + b
 

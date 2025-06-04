@@ -24,3 +24,4 @@ def test_cube():
  assert cube(2) == 8
 /ndef test_power():
  assert power(2, 3) == 8
+# Tests complete

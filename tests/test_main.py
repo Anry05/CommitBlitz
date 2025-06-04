@@ -13,3 +13,6 @@ def test_multiply():
 
 def test_divide():
  assert divide(10, 2) == 5
+
+def test_divide_zero():
+ assert divide(5, 0) == 'Cannot divide by zero'

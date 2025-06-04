@@ -11,6 +11,7 @@ def add(a, b):
 # Multiply two numbers
 
 def subtract(a, b):
+# Divide two numbers with zero check
    return a - b
 
 def multiply(a, b):
